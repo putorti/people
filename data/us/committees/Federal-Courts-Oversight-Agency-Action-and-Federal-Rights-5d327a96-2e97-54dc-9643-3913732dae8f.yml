@@ -10,9 +10,6 @@ members:
 - name: Sheldon Whitehouse
   role: Chairman
   person_id: ocd-person/fd0623ac-bbc8-5c5e-839f-37148d89c36e
-- name: Dianne Feinstein
-  role: Member
-  person_id: ocd-person/6fa57189-4425-55f4-85fe-54eab927bc27
 - name: Richard Blumenthal
   role: Member
   person_id: ocd-person/62fd9e8b-80ea-5484-b1f1-3f3b4c350cc3
@@ -28,6 +25,9 @@ members:
 - name: Peter Welch
   role: Member
   person_id: ocd-person/8addb5a8-a569-54b2-811b-b5d091350411
+- name: Laphonza R. Butler
+  role: Member
+  person_id: ocd-person/0490575c-d32c-56f5-9d82-c0511ebe4fb8
 - name: John Kennedy
   role: Ranking Member
   person_id: ocd-person/7a996578-ee76-59c8-856c-4f63861a62da
