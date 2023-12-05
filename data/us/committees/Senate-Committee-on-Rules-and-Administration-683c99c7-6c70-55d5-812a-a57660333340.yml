@@ -12,9 +12,6 @@ members:
 - name: Amy Klobuchar
   role: Chairman
   person_id: ocd-person/2722e0b1-650d-5f77-a348-f7f0d66aa3e2
-- name: Dianne Feinstein
-  role: Member
-  person_id: ocd-person/6fa57189-4425-55f4-85fe-54eab927bc27
 - name: Charles E. Schumer
   role: Member
   person_id: ocd-person/ced62f94-88a6-5a4b-b470-89cf1ee4bdac
@@ -36,6 +33,9 @@ members:
 - name: Peter Welch
   role: Member
   person_id: ocd-person/8addb5a8-a569-54b2-811b-b5d091350411
+- name: Laphonza R. Butler
+  role: Member
+  person_id: ocd-person/0490575c-d32c-56f5-9d82-c0511ebe4fb8
 - name: Deb Fischer
   role: Ranking Member
   person_id: ocd-person/1e87267c-1e9f-5e46-a266-b1d557a8571b
