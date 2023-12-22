@@ -12,9 +12,6 @@ members:
 - name: Patty Murray
   role: Chairman
   person_id: ocd-person/eb3ab543-13a1-53db-a8a1-459e8e91b701
-- name: Dianne Feinstein
-  role: Member
-  person_id: ocd-person/6fa57189-4425-55f4-85fe-54eab927bc27
 - name: Richard J. Durbin
   role: Member
   person_id: ocd-person/7d0c4665-2bcf-5e53-b450-25461cd13d85
@@ -54,6 +51,9 @@ members:
 - name: Gary C. Peters
   role: Member
   person_id: ocd-person/edbfabfd-d26b-5d22-9a5d-f079181608f8
+- name: Kyrsten Sinema
+  role: Member
+  person_id: ocd-person/37a72ecf-c1ae-5c91-b4ee-d72f4e9e8894
 - name: Susan M. Collins
   role: Ranking Member
   person_id: ocd-person/a6f624bf-9a40-53ad-a0da-92f115d619aa
