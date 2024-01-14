@@ -35,24 +35,18 @@ members:
 - name: Steve Cohen
   role: Member
   person_id: ocd-person/e56dabed-c7b4-51c2-a29b-c9850bc9feff
-- name: Mike Johnson
-  role: Member
-  person_id: ocd-person/ef2a1e73-edb7-5f53-9f61-da2020fc417d
-- name: Henry C. "Hank" Johnson, Jr.
-  role: Member
-  person_id: ocd-person/51b7316e-0885-571b-8a2e-daf54dd906bb
 - name: Andy Biggs
   role: Member
   person_id: ocd-person/86b4b077-b73b-579b-bb73-bc5a4a73719a
-- name: Adam B. Schiff
+- name: Henry C. "Hank" Johnson, Jr.
   role: Member
-  person_id: ocd-person/c5a3238c-f36a-5b17-af62-ca6dcce0b91d
+  person_id: ocd-person/51b7316e-0885-571b-8a2e-daf54dd906bb
 - name: Tom McClintock
   role: Member
   person_id: ocd-person/173a4f3f-e38f-569e-97b2-e0424195f16c
-- name: David N. Cicilline
+- name: Adam B. Schiff
   role: Member
-  person_id: ocd-person/c1210b41-26d8-5768-9321-50a485c83e98
+  person_id: ocd-person/c5a3238c-f36a-5b17-af62-ca6dcce0b91d
 - name: Thomas P. Tiffany
   role: Member
   person_id: ocd-person/5048bd11-acf0-5775-a75f-5f085fc8bc11
@@ -128,6 +122,9 @@ members:
 - name: Kevin Kiley
   role: Member
   person_id: ocd-person/4aee9639-900f-5593-aab0-b55bb3e8da51
+- name: Becca Balint
+  role: Member
+  person_id: ocd-person/510c6c69-df0f-5b09-b4c7-066256ace832
 - name: Harriet M. Hageman
   role: Member
   person_id: ocd-person/17005404-0e78-5bcc-8a71-d67af0e033fd
