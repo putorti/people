@@ -7,21 +7,21 @@ parent: ocd-organization/6bcc72d7-fb5e-576c-bc59-086572a8da53
 sources:
 - url: https://theunitedstates.io/
 members:
-- name: Bill Johnson
+- name: Earl L. "Buddy" Carter
   role: Chairman
-  person_id: ocd-person/37280554-1674-5b92-8eb1-1be9fe1e76ae
+  person_id: ocd-person/85e43f57-4901-52fd-9fad-57373277f5e1
 - name: Paul Tonko
   role: Ranking Member
   person_id: ocd-person/19360ce3-5ad4-5b67-b253-0239a5360fbb
-- name: Earl L. "Buddy" Carter
-  role: Member
-  person_id: ocd-person/85e43f57-4901-52fd-9fad-57373277f5e1
-- name: Diana DeGette
-  role: Member
-  person_id: ocd-person/241df76f-7089-5821-ab7f-bb54d92ee9d7
 - name: Gary J. Palmer
   role: Member
   person_id: ocd-person/1add3f9c-2946-50ed-92e9-fa54a98fe985
+- name: Diana DeGette
+  role: Member
+  person_id: ocd-person/241df76f-7089-5821-ab7f-bb54d92ee9d7
+- name: Greg Pence
+  role: Member
+  person_id: ocd-person/4c0bab34-0485-54c6-8b00-15042f52fd87
 - name: Janice D. Schakowsky
   role: Member
   person_id: ocd-person/c5e8693c-dca3-5ff7-b456-e71d944e4fb0
@@ -64,9 +64,9 @@ members:
 - name: Mariannette Miller-Meeks
   role: Member
   person_id: ocd-person/fc8623ea-be1e-518f-aa76-3598910fa676
-- name: Jay Obernolte
+- name: John James
   role: Member
-  person_id: ocd-person/d78f994b-01dc-5dfb-a08f-fc2ca2cef7ec
+  person_id: ocd-person/f32918a9-b738-5f20-8c3e-f95c7fda80cb
 extras:
   address: 2125 RHOB; Washington, DC 20515
   phone: (202) 225-3641
