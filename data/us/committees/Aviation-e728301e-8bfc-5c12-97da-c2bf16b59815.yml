@@ -67,30 +67,24 @@ members:
 - name: Jake Auchincloss
   role: Member
   person_id: ocd-person/a68063b7-2ce8-5638-a836-4fa7b22b3432
-- name: Lance Gooden
-  role: Member
-  person_id: ocd-person/8d52be7e-dba0-5b01-bb9a-c0cfb72fa609
-- name: Mary Sattler Peltola
-  role: Member
-  person_id: ocd-person/be59b2eb-82fa-5b34-af53-30a9aa8b1123
 - name: Tracey Mann
   role: Member
   person_id: ocd-person/675e8a3b-ea68-55f8-aeb8-be287fe621bd
-- name: Hillary J. Scholten
+- name: Mary Sattler Peltola
   role: Member
-  person_id: ocd-person/55404260-10e4-59e0-b228-2a01a21fb952
+  person_id: ocd-person/be59b2eb-82fa-5b34-af53-30a9aa8b1123
 - name: Burgess Owens
   role: Member
   person_id: ocd-person/f5c47b2f-8eb9-51f9-b403-d41b5bdcd229
-- name: Dina Titus
+- name: Hillary J. Scholten
   role: Member
-  person_id: ocd-person/51152aac-2c93-5445-99ed-026df5b6ad37
+  person_id: ocd-person/55404260-10e4-59e0-b228-2a01a21fb952
 - name: Rudy Yakym III
   role: Member
   person_id: ocd-person/bf37099b-56fe-54fe-acc1-a6d79a0107d1
-- name: Donald M. Payne, Jr.
+- name: Dina Titus
   role: Member
-  person_id: ocd-person/fa65b2cc-a6a5-56fa-8c78-5bc2ecdd93e6
+  person_id: ocd-person/51152aac-2c93-5445-99ed-026df5b6ad37
 - name: Lori Chavez-DeRemer
   role: Member
   person_id: ocd-person/dba5c00d-d539-5816-8781-e63f28d8b3e2
@@ -109,21 +103,27 @@ members:
 - name: Eleanor Holmes Norton
   role: Member
   person_id: ocd-person/709b6b03-c38f-540b-85f2-83c16f62d3bd
-- name: John James
-  role: Member
-  person_id: ocd-person/f32918a9-b738-5f20-8c3e-f95c7fda80cb
-- name: Frederica S. Wilson
-  role: Member
-  person_id: ocd-person/bd701bdc-2944-5bb8-b4bf-e2914e6e1241
 - name: Marcus J. Molinaro
   role: Member
   person_id: ocd-person/5cc850f2-c4fa-5844-ab4c-bb44a07159ac
+- name: Frederica S. Wilson
+  role: Member
+  person_id: ocd-person/bd701bdc-2944-5bb8-b4bf-e2914e6e1241
 - name: Mike Collins
   role: Member
   person_id: ocd-person/0f7a88d1-4e4c-565a-b905-706181d7b561
+- name: Christopher R. Deluzio
+  role: Member
+  person_id: ocd-person/06299567-cfd4-5679-ad04-893e9f980275
 - name: Aaron Bean
   role: Member
   person_id: ocd-person/a5212de0-6253-5b67-8473-2b00d1f22da6
+- name: Kevin Kiley
+  role: Member
+  person_id: ocd-person/4aee9639-900f-5593-aab0-b55bb3e8da51
+- name: Vince Fong
+  role: Member
+  person_id: ocd-person/2d6b7f7f-a241-5064-9812-9506beb2b76e
 extras:
   address: 2165 RHOB; Washington, DC 20515
   phone: (202) 225-9446
