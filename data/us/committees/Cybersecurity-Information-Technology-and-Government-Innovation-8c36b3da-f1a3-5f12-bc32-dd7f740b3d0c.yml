@@ -34,18 +34,15 @@ members:
 - name: Anna Paulina Luna
   role: Member
   person_id: ocd-person/d18ec0cb-328b-54c8-8785-5f924799f5fe
-- name: Jimmy Gomez
-  role: Member
-  person_id: ocd-person/20be777c-8a2b-54c6-9b54-df88ff19b8ae
-- name: Chuck Edwards
-  role: Member
-  person_id: ocd-person/1b8394c7-93d4-5a22-91cf-264782834b9b
 - name: Jared Moskowitz
   role: Member
   person_id: ocd-person/356c2159-c402-51d8-b4eb-697aaff46dc2
 - name: Nicholas A. Langworthy
   role: Member
   person_id: ocd-person/a4321566-0258-5d46-bc51-c1f77ba95ba0
+- name: Ayanna Pressley
+  role: Member
+  person_id: ocd-person/ab80da0d-902f-5d28-b765-1885853182bd
 - name: Eric Burlison
   role: Member
   person_id: ocd-person/6a54b336-ad96-5ceb-a963-50fe0f56c288
