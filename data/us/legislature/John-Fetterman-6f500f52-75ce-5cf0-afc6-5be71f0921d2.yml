@@ -23,10 +23,8 @@ offices:
 links:
 - url: https://www.fetterman.senate.gov
   note: website
-- url: https://www.fetterman.senate.gov/
+- url: https://www.fetterman.senate.gov/contact/
   note: contact form
-other_names:
-- name: John K. Fetterman
 other_identifiers:
 - scheme: bioguide
   identifier: F000479
@@ -36,6 +34,8 @@ other_identifiers:
   identifier: S6PA00274
 - scheme: govtrack
   identifier: '456877'
+- scheme: opensecrets
+  identifier: N00038201
 - scheme: wikidata
   identifier: Q3181500
 - scheme: wikipedia
