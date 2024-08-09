@@ -23,7 +23,7 @@ offices:
 links:
 - url: https://www.schmitt.senate.gov
   note: website
-- url: https://www.schmitt.senate.gov/
+- url: https://www.schmitt.senate.gov/contact/
   note: contact form
 other_identifiers:
 - scheme: bioguide
@@ -34,6 +34,8 @@ other_identifiers:
   identifier: S2MO00544
 - scheme: govtrack
   identifier: '456875'
+- scheme: opensecrets
+  identifier: N00048414
 - scheme: wikidata
   identifier: Q5387455
 - scheme: wikipedia
