@@ -21,7 +21,7 @@ offices:
   address: 1317 Longworth House Office Building Washington DC 20515-2203
   voice: 202-225-3831
 links:
-- url: https://scholten.house.gov/
+- url: https://scholten.house.gov
   note: website
 other_identifiers:
 - scheme: bioguide
@@ -30,6 +30,8 @@ other_identifiers:
   identifier: H0MI03316
 - scheme: govtrack
   identifier: '456906'
+- scheme: opensecrets
+  identifier: N00044885
 - scheme: wikidata
   identifier: Q115137368
 - scheme: wikipedia
