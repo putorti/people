@@ -55,27 +55,24 @@ members:
 - name: Joe Courtney
   role: Member
   person_id: ocd-person/b34622c6-66c7-5f9a-822f-55e3f9ac3c73
-- name: John James
-  role: Member
-  person_id: ocd-person/f32918a9-b738-5f20-8c3e-f95c7fda80cb
-- name: Gregorio Kilili Camacho Sablan
-  role: Member
-  person_id: ocd-person/3f4f5bab-eae1-594a-a93f-53c463b03d5b
 - name: Lori Chavez-DeRemer
   role: Member
   person_id: ocd-person/dba5c00d-d539-5816-8781-e63f28d8b3e2
-- name: Suzanne Bonamici
+- name: Gregorio Kilili Camacho Sablan
   role: Member
-  person_id: ocd-person/90d40f72-ffae-544d-86bb-b41605730fee
+  person_id: ocd-person/3f4f5bab-eae1-594a-a93f-53c463b03d5b
 - name: Brandon Williams
   role: Member
   person_id: ocd-person/4b5ef955-4806-51d0-83f3-177000f67b3c
-- name: Alma S. Adams
+- name: Suzanne Bonamici
   role: Member
-  person_id: ocd-person/76bfaf2b-8259-5f56-bce9-d1c8cd6c780d
+  person_id: ocd-person/90d40f72-ffae-544d-86bb-b41605730fee
 - name: Erin Houchin
   role: Member
   person_id: ocd-person/c5e2bb91-8e10-5b4c-a442-bf5edb05bd45
+- name: Alma S. Adams
+  role: Member
+  person_id: ocd-person/76bfaf2b-8259-5f56-bce9-d1c8cd6c780d
 - name: Virginia Foxx
   role: Member
   person_id: ocd-person/b77761e4-93cb-5fbb-972e-5d591198df8f
