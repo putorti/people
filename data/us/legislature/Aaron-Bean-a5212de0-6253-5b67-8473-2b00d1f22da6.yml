@@ -21,7 +21,7 @@ offices:
   address: 1239 Longworth House Office Building Washington DC 20515-0904
   voice: 202-225-0123
 links:
-- url: https://bean.house.gov/
+- url: https://bean.house.gov
   note: website
 ids:
   twitter: RepAaronBean
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H2FL04211
 - scheme: govtrack
   identifier: '456888'
+- scheme: opensecrets
+  identifier: N00051369
 - scheme: wikidata
   identifier: Q4661833
 - scheme: wikipedia

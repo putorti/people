@@ -21,7 +21,7 @@ offices:
   address: 1408 Longworth House Office Building Washington DC 20515-4500
   voice: 202-225-4115
 links:
-- url: https://balint.house.gov/
+- url: https://balint.house.gov
   note: website
 ids:
   twitter: RepBeccaB
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H2VT01076
 - scheme: govtrack
   identifier: '456948'
+- scheme: opensecrets
+  identifier: N00049900
 - scheme: wikidata
   identifier: Q28137193
 - scheme: wikipedia
