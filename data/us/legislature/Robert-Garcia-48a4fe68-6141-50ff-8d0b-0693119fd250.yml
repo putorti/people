@@ -21,7 +21,7 @@ offices:
   address: 1305 Longworth House Office Building Washington DC 20515-0542
   voice: 202-225-7924
 links:
-- url: https://robertgarcia.house.gov/
+- url: https://robertgarcia.house.gov
   note: website
 ids:
   twitter: RepRobertGarcia
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H2CA47188
 - scheme: govtrack
   identifier: '456885'
+- scheme: opensecrets
+  identifier: N00049470
 - scheme: wikidata
   identifier: Q16204904
 - scheme: wikipedia

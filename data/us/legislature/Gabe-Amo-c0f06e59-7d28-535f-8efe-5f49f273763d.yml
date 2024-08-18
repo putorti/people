@@ -19,6 +19,9 @@ offices:
 - classification: capitol
   address: 2233 Rayburn House Office Building Washington DC 20515-3901
   voice: 202-225-4911
+links:
+- url: https://amo.house.gov
+  note: website
 other_identifiers:
 - scheme: bioguide
   identifier: A000380
@@ -26,6 +29,8 @@ other_identifiers:
   identifier: H4RI01265
 - scheme: govtrack
   identifier: '456955'
+- scheme: opensecrets
+  identifier: N00052615
 - scheme: wikipedia
   identifier: Gabe Amo
 - scheme: wikidata

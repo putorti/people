@@ -21,7 +21,7 @@ offices:
   address: 1419 Longworth House Office Building Washington DC 20515-0537
   voice: 202-225-7084
 links:
-- url: https://kamlager-dove.house.gov/
+- url: https://kamlager-dove.house.gov
   note: website
 other_identifiers:
 - scheme: bioguide
@@ -30,6 +30,8 @@ other_identifiers:
   identifier: H2CA37304
 - scheme: govtrack
   identifier: '456884'
+- scheme: opensecrets
+  identifier: N00049460
 - scheme: wikidata
   identifier: Q20177418
 - scheme: wikipedia
