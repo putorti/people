@@ -20,7 +20,7 @@ offices:
   address: 1205 Longworth House Office Building Washington DC 20515-1317
   voice: 202-225-5905
 links:
-- url: https://sorensen.house.gov/
+- url: https://sorensen.house.gov
   note: website
 ids:
   twitter: RepEricSorensen
@@ -31,6 +31,8 @@ other_identifiers:
   identifier: H2IL17147
 - scheme: govtrack
   identifier: '456902'
+- scheme: opensecrets
+  identifier: N00049558
 - scheme: wikidata
   identifier: Q115182513
 - scheme: wikipedia
