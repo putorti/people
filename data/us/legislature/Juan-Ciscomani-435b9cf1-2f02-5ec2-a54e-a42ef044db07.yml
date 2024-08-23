@@ -21,7 +21,7 @@ offices:
   address: 1429 Longworth House Office Building Washington DC 20515-0306
   voice: 202-225-2542
 links:
-- url: https://ciscomani.house.gov/
+- url: https://ciscomani.house.gov
   note: website
 ids:
   twitter: RepCiscomani
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H2AZ02360
 - scheme: govtrack
   identifier: '456880'
+- scheme: opensecrets
+  identifier: N00049039
 - scheme: wikidata
   identifier: Q115220916
 - scheme: wikipedia
