@@ -20,7 +20,7 @@ offices:
   address: 151 Cannon House Office Building Washington DC 20515-4205
   voice: 202-225-4311
 links:
-- url: https://ogles.house.gov/
+- url: https://ogles.house.gov
   note: website
 other_identifiers:
 - scheme: bioguide
@@ -29,6 +29,8 @@ other_identifiers:
   identifier: H2TN05446
 - scheme: govtrack
   identifier: '456939'
+- scheme: opensecrets
+  identifier: N00050943
 - scheme: wikidata
   identifier: Q111623114
 - scheme: wikipedia

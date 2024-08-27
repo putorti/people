@@ -19,6 +19,9 @@ offices:
 - classification: capitol
   address: 2417 Rayburn House Office Building Washington DC 20515-4604
   voice: 202-225-6365
+links:
+- url: https://mcclellan.house.gov
+  note: website
 other_identifiers:
 - scheme: bioguide
   identifier: M001227
@@ -26,6 +29,8 @@ other_identifiers:
   identifier: H4VA04066
 - scheme: govtrack
   identifier: '456953'
+- scheme: opensecrets
+  identifier: N00051961
 - scheme: wikipedia
   identifier: Jennifer McClellan
 - scheme: wikidata

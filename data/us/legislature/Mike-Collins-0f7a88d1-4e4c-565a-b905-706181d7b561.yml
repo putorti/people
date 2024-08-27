@@ -21,7 +21,7 @@ offices:
   address: 1223 Longworth House Office Building Washington DC 20515-1010
   voice: 202-225-4101
 links:
-- url: https://collins.house.gov/
+- url: https://collins.house.gov
   note: website
 ids:
   twitter: RepMikeCollins
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H4GA10071
 - scheme: govtrack
   identifier: '456895'
+- scheme: opensecrets
+  identifier: N00035370
 - scheme: wikipedia
   identifier: Mike Collins (politician)
 - scheme: votesmart
