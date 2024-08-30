@@ -21,7 +21,7 @@ offices:
   address: 1022 Longworth House Office Building Washington DC 20515-3222
   voice: 202-225-3701
 links:
-- url: https://brandonwilliams.house.gov/
+- url: https://brandonwilliams.house.gov
   note: website
 other_identifiers:
 - scheme: bioguide
@@ -30,6 +30,8 @@ other_identifiers:
   identifier: H2NY22212
 - scheme: govtrack
   identifier: '456926'
+- scheme: opensecrets
+  identifier: N00050433
 - scheme: wikipedia
   identifier: Brandon Williams (politician)
 - scheme: votesmart
