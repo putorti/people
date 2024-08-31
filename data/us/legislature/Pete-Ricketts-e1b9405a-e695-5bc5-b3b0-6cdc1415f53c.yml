@@ -22,6 +22,8 @@ offices:
 links:
 - url: https://www.ricketts.senate.gov
   note: website
+- url: https://www.ricketts.senate.gov/contact/
+  note: contact form
 other_identifiers:
 - scheme: bioguide
   identifier: R000618
@@ -31,6 +33,8 @@ other_identifiers:
   identifier: S6NE00129
 - scheme: govtrack
   identifier: '456952'
+- scheme: opensecrets
+  identifier: N00027695
 - scheme: wikidata
   identifier: Q6106781
 - scheme: wikipedia
