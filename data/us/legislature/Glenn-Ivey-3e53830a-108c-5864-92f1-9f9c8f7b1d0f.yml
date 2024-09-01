@@ -21,7 +21,7 @@ offices:
   address: 1529 Longworth House Office Building Washington DC 20515-2004
   voice: 202-225-8699
 links:
-- url: https://ivey.house.gov/
+- url: https://ivey.house.gov
   note: website
 ids:
   twitter: RepGlennIvey
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H2MD04315
 - scheme: govtrack
   identifier: '456905'
+- scheme: opensecrets
+  identifier: N00033749
 - scheme: wikidata
   identifier: Q22004572
 - scheme: wikipedia
