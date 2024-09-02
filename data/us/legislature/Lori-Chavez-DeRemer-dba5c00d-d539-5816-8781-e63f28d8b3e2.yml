@@ -21,7 +21,7 @@ offices:
   address: 1722 Longworth House Office Building Washington DC 20515-3705
   voice: 202-225-5711
 links:
-- url: https://chavez-deremer.house.gov/
+- url: https://chavez-deremer.house.gov
   note: website
 ids:
   twitter: RepLCD
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H2OR05209
 - scheme: govtrack
   identifier: '456933'
+- scheme: opensecrets
+  identifier: N00048900
 - scheme: wikidata
   identifier: Q115522128
 - scheme: wikipedia

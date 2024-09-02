@@ -23,7 +23,7 @@ offices:
 links:
 - url: https://www.britt.senate.gov
   note: website
-- url: https://www.britt.senate.gov/
+- url: https://www.britt.senate.gov/contact/
   note: contact form
 other_identifiers:
 - scheme: bioguide
@@ -34,6 +34,8 @@ other_identifiers:
   identifier: S2AL00145
 - scheme: govtrack
   identifier: '456874'
+- scheme: opensecrets
+  identifier: N00048812
 - scheme: wikidata
   identifier: Q111285444
 - scheme: wikipedia
