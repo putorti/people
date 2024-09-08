@@ -21,7 +21,7 @@ offices:
   address: 1320 Longworth House Office Building Washington DC 20515-4308
   voice: 202-225-4901
 links:
-- url: https://luttrell.house.gov/
+- url: https://luttrell.house.gov
   note: website
 ids:
   twitter: RepLuttrell
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H2TX08182
 - scheme: govtrack
   identifier: '456942'
+- scheme: opensecrets
+  identifier: N00048776
 - scheme: wikidata
   identifier: Q115137460
 - scheme: wikipedia

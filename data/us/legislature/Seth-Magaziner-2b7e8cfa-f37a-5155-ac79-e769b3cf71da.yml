@@ -21,7 +21,7 @@ offices:
   address: 1218 Longworth House Office Building Washington DC 20515-3902
   voice: 202-225-2735
 links:
-- url: https://magaziner.house.gov/
+- url: https://magaziner.house.gov
   note: website
 other_identifiers:
 - scheme: bioguide
@@ -30,6 +30,8 @@ other_identifiers:
   identifier: H2RI02184
 - scheme: govtrack
   identifier: '456937'
+- scheme: opensecrets
+  identifier: N00050458
 - scheme: wikidata
   identifier: Q16222460
 - scheme: wikipedia
