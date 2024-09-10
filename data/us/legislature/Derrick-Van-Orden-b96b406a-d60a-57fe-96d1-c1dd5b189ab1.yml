@@ -21,7 +21,7 @@ offices:
   address: 1513 Longworth House Office Building Washington DC 20515-4903
   voice: 202-225-5506
 links:
-- url: https://vanorden.house.gov/
+- url: https://vanorden.house.gov
   note: website
 ids:
   twitter: RepVanOrden
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H0WI03175
 - scheme: govtrack
   identifier: '456950'
+- scheme: opensecrets
+  identifier: N00046843
 - scheme: wikidata
   identifier: Q115155627
 - scheme: wikipedia
