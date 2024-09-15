@@ -21,7 +21,7 @@ offices:
   address: 1530 Longworth House Office Building Washington DC 20515-3201
   voice: 202-225-3826
 links:
-- url: https://lalota.house.gov/
+- url: https://lalota.house.gov
   note: website
 ids:
   twitter: RepLaLota
@@ -32,6 +32,8 @@ other_identifiers:
   identifier: H2NY01190
 - scheme: govtrack
   identifier: '456920'
+- scheme: opensecrets
+  identifier: N00050419
 - scheme: wikidata
   identifier: Q115168182
 - scheme: wikipedia
