@@ -23,12 +23,6 @@ members:
 - name: Zoe Lofgren
   role: Member
   person_id: ocd-person/80764021-2b87-5b48-8999-98943700dea8
-- name: Ken Buck
-  role: Member
-  person_id: ocd-person/ae816838-90af-512b-8a98-9389b05e9b6a
-- name: Sheila Jackson Lee
-  role: Member
-  person_id: ocd-person/99710435-8a59-5f14-9acd-da267980551c
 - name: Matt Gaetz
   role: Member
   person_id: ocd-person/89e031c0-3988-5b08-b7a3-7d4e63eb0579
@@ -140,6 +134,12 @@ members:
 - name: Russell Fry
   role: Member
   person_id: ocd-person/3036516e-5f78-5d6a-9160-989a3f6cd149
+- name: Kelly Armstrong
+  role: Member
+  person_id: ocd-person/ea4b65ca-7dbf-575b-abdb-1ac17d6ebb13
+- name: Michael A. Rulli
+  role: Member
+  person_id: ocd-person/91ba3b6a-a4c8-54ab-8964-8498641a6d8f
 extras:
   address: 2138 RHOB; Washington, DC 20515-6216
   phone: (202) 225-6906
