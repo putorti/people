@@ -13,30 +13,24 @@ members:
 - name: Pramila Jayapal
   role: Ranking Member
   person_id: ocd-person/7849cc06-924b-5f36-a446-1f97d9fbdc63
-- name: Ken Buck
-  role: Member
-  person_id: ocd-person/ae816838-90af-512b-8a98-9389b05e9b6a
-- name: Zoe Lofgren
-  role: Member
-  person_id: ocd-person/80764021-2b87-5b48-8999-98943700dea8
 - name: Andy Biggs
   role: Member
   person_id: ocd-person/86b4b077-b73b-579b-bb73-bc5a4a73719a
-- name: J. Luis Correa
+- name: Zoe Lofgren
   role: Member
-  person_id: ocd-person/86b65fd7-4549-51fa-80e8-eaf3daf3e60e
+  person_id: ocd-person/80764021-2b87-5b48-8999-98943700dea8
 - name: Thomas P. Tiffany
   role: Member
   person_id: ocd-person/5048bd11-acf0-5775-a75f-5f085fc8bc11
-- name: Veronica Escobar
+- name: J. Luis Correa
   role: Member
-  person_id: ocd-person/a656d2f5-2e90-535c-91d9-d27ad1150c03
+  person_id: ocd-person/86b65fd7-4549-51fa-80e8-eaf3daf3e60e
 - name: Chip Roy
   role: Member
   person_id: ocd-person/2398f81d-6371-544d-a7ff-24cf993a716b
-- name: Sheila Jackson Lee
+- name: Veronica Escobar
   role: Member
-  person_id: ocd-person/99710435-8a59-5f14-9acd-da267980551c
+  person_id: ocd-person/a656d2f5-2e90-535c-91d9-d27ad1150c03
 - name: Victoria Spartz
   role: Member
   person_id: ocd-person/bdb81964-c3cc-5f48-8854-7b9c88c23755
